@@ -63,13 +63,6 @@ Applied CRISP-DM to clean, explore, and model real bank telemarketing data, buil
 Applied logistic regression, Kruskal-Wallis, mixed-model ANOVA, and MANOVA to identify statistically significant fraud indicators. Validated model assumptions and tested for multicollinearity, framing results as a formal consultancy report for risk management decision-makers.
 `SPSS` `Logistic Regression` `MANOVA`
 
-### Data Storytelling: Textile Industry Wastage
-*Tableau*
-Sourced, cleaned, and structured industry wastage data into a narrative-driven interactive dashboard for non-technical stakeholders, with calculated fields and filters to explore trends by region and material type.
-`Tableau` `Data Storytelling` `Dashboard Design`
-
-*(Repos for the last two aren't up yet. Happy to add links once they're live.)*
-
 ---
 
 ## Experience
