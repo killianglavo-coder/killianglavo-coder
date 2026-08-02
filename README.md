@@ -2,7 +2,7 @@
 
 **MSc Business Analytics Graduate | Data & Insights**
 
-I turn messy, real-world data into decisions. MSc Business Analytics graduate (1.1, University of Galway) with hands-on experience across statistical modelling, machine learning, and data visualisation, applied to real Irish datasets, not just toy problems. I pair analytical rigor with operational experience from manufacturing, retail, and technical installation roles.
+MSc Business Analytics graduate (1.1, University of Galway) with hands-on experience across statistical modelling, machine learning, and data visualisation, applied to real Irish datasets. I pair analytical rigor with operational experience from manufacturing, retail, and technical installation roles.
 
 Location: Co. Galway, Ireland
 Email: [killianglavo@gmail.com](mailto:killianglavo@gmail.com)
