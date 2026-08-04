@@ -53,16 +53,6 @@ Analysed a large retail POS dataset from grocery store cashiers to extract custo
 Designed and built a normalised (3NF) relational database for a charity homepage use case, from ERD through to a populated dummy dataset. Created five distinct SQL views tailored to different stakeholders (donors, volunteers, general public, beneficiaries, and journalists), each with documented reasoning for the query design and expected output.
 `SQL` `Database Design` `ERD` `Normalisation`
 
-### Business Modelling & Predictive Analytics
-*Excel Solver, CRISP-DM*
-Applied CRISP-DM to clean, explore, and model real bank telemarketing data, building a predictive scoring model for term-deposit subscription likelihood. Validated accuracy on a holdout sample and iteratively tuned thresholds to balance precision and recall, delivering a business-ready recommendations report.
-`Excel Solver` `CRISP-DM` `Predictive Modelling`
-
-### Statistical Consultancy Report
-*SPSS*
-Applied logistic regression, Kruskal-Wallis, mixed-model ANOVA, and MANOVA to identify statistically significant fraud indicators. Validated model assumptions and tested for multicollinearity, framing results as a formal consultancy report for risk management decision-makers.
-`SPSS` `Logistic Regression` `MANOVA`
-
 ---
 
 ## Experience
