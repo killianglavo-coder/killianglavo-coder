@@ -4,9 +4,9 @@
 
 MSc Business Analytics graduate (1.1, University of Galway) with hands-on experience across statistical modelling, machine learning, and data visualisation, applied to real Irish datasets. I pair analytical rigor with operational experience from manufacturing, retail, and technical installation roles.
 
-Location: Co. Galway, Ireland
-Email: [killianglavo@gmail.com](mailto:killianglavo@gmail.com)
-LinkedIn: [Profile](https://www.linkedin.com/in/killian-glavin-9787842b0/)
+- Location: Co. Galway, Ireland
+- Email: [killianglavo@gmail.com](mailto:killianglavo@gmail.com)
+- LinkedIn: [Profile](https://www.linkedin.com/in/killian-glavin-9787842b0/)
 
 ---
 
