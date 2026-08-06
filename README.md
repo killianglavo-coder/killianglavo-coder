@@ -6,7 +6,7 @@ MSc Business Analytics graduate (1.1, University of Galway) with hands-on experi
 
 - Location: Co. Galway, Ireland
 - Email: [killianglavo@gmail.com](mailto:killianglavo@gmail.com)
-- LinkedIn: [Profile](https://www.linkedin.com/in/killian-glavin-9787842b0/)
+- [LinkedIn](https://www.linkedin.com/in/killian-glavin-9787842b0/)
 
 ---
 
